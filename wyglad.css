@@ -1,0 +1,215 @@
+body 
+{
+	background-color: #404040;
+	font-family: 'Lato', sans-serif;
+		}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	color: white;
+	margin-top: 20px;
+	font-size: 44px;
+	letter-spacing: 3px;
+	font-weight: 900;
+	
+}
+
+#logoL
+{
+	float:left;
+	padding: 0px;
+	width: 138px;
+	border-right: 2px #cccccc;
+}
+
+#menu
+{
+	background-color: #303030;
+	margin-top: 20px;
+	color: #ffffff;
+	padding: 15px;
+	font-size: 40px; 
+
+}
+
+#topbar
+{
+	background-color:#C0C0C0	;
+	color: white;
+	padding: 40px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 620px;
+	
+}
+
+#sidebar
+{
+	margin-top: 20px;
+	float: left;
+	width: 148px;
+	min-height: 620px;
+	padding:20px;
+	background-color: lightgray;
+	text-align: center;
+	font-size: 18px;
+	border-right: 2px dotted #666666;
+}
+	
+}
+
+#content
+{
+	float: left;
+	padding: 40px;
+	width: 730px;
+	background-color: #dedede;
+	min-height: 580px;
+	text-align: justify;
+	
+}
+
+#footer
+{
+	clear: both;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 18px;
+	
+}
+
+#tekstrejestracja
+{
+	color: white;
+	margin-top: 20px;
+	font-size: 22px;
+	
+
+}
+
+
+.option
+{
+	float: left;
+	min-width: 50px;
+	height: 60px;
+	font-size: 18px;
+	padding: 10px;
+	border-right: 2px dotted #444444;
+	opacity: 0.8;
+}
+.option:hover
+{
+	background-color:#000000;
+	cursor:pointer;
+	
+}
+
+
+.optionL
+{
+	font-size:18px;
+	height:25px;
+	padding: 10px;
+	border-bottom: 2px #444444;
+}
+
+
+.optionL:hover
+{
+	background-color: #black;
+	color: white;
+	cursor: pointer;
+}
+
+.dottedline
+{
+	height: 5px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	border-bottom: 2px dotted #black;
+}
+
+#rejestracja
+{
+	margin-top: 20px;
+	margin-left: 5px;
+	float: left;
+	padding: 40px;
+	width: 1000px;
+	background-color: #dedede;
+	min-height: 580px;
+	text-align: justify;
+	
+}
+
+#logowanie
+{
+	
+	margin-left: 5px;
+	float: left;
+	padding: 40px;
+	width: 1000px;
+	background-color: #dedede;
+	min-height: 620px;
+	text-align: justify;
+	
+}
+
+#reklama1
+{
+	float: left;
+	padding: 10px;
+	width: 400px;
+	background-color: #a9ba9d;
+	min-height: 600px;
+	text-align: justify;
+	margin-left: 200px;
+}
+
+
+#reklama2
+{
+	float: left;
+	padding: 10px;
+	width: 400px;
+	background-color: #a9ba9d;
+	min-height: 600px;
+	text-align: justify;
+	margin-left: 300px;
+}
+
+#reklama3
+{
+	float: right;
+	padding: 10px;
+	width: 400px;
+	background-color: #a9ba9d;
+	min-height: 600px;
+	text-align: justify;
+	margin-right: 200px;
+}
+
+#pracownik
+{
+	background-color:#C0C0C0	;
+	color: white;
+	padding: 40px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 620px;
+	
+	
+}
+
+
+
+
